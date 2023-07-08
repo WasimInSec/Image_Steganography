@@ -1,16 +1,8 @@
-# Steganography
-Transmit secret messages with image steganography.
+Features
 
-Features:
-* Encode images with secret messages
-* Transmit them
-* Decode secret messages out of encoded images
+   > Advanced Steganographic Algorithms: Implementations of state-of-the-art techniques, including LSB substitution, DCT domain, and spatial domain methods.
+   > Image Processing Utilities: A collection of tools for preprocessing images, manipulating pixel values, and extracting hidden data from steganographic images.
+   > Extensive Documentation: Detailed documentation covering the theoretical foundations of steganography, implementation details, and usage instructions for each component.
+   > Multi-platform Compatibility: Code implementations in Java for easy integration into different projects and platforms.
+   > Open-Source Community: A collaborative environment where developers worldwide can contribute, report bugs, and request new features.
 
-Steganography is the practice of hiding data within other data.
-This app lets you hide text messages in images.
-
-This app was originally developed as an exam project, at Copenhagen School of Design and Technology.
-It originally used a web-service for the steganography functionality.
-As this web-service is no longer up, I have decided to port the functionality over to the phone itself.
-
-[Check it out on the Google Play Store](https://play.google.com/store/apps/details?id=com.akseltorgard.steganography)
